@@ -1,5 +1,7 @@
 React Router Dom Implemantation with the Taiwind Magic Website of the modern UI and Design.
 
+Navigarion using the Router Dom by using the "<Outlet >" from main.jsx
+
 <img width="1899" height="887" alt="Screenshot 2025-11-03 221224" src="https://github.com/user-attachments/assets/dc3e5f94-15e3-4f0e-87b4-4c6f46ec89f0" />
 <img width="1895" height="893" alt="Screenshot 2025-11-03 221249" src="https://github.com/user-attachments/assets/db2038a1-a028-4478-bfd1-2b82ea5c87ad" />
 <img width="1900" height="892" alt="Screenshot 2025-11-03 221306" src="https://github.com/user-attachments/assets/3513a14e-b876-42c7-b110-c394776663c0" />
